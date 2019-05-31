@@ -1,12 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Quicksand:400,500,700&display=swap');
+
 body {
-  padding: 0px;
-  margin: 0px;
-  width: 100%;
-  background-color: #deaf7a;
+  font-family: 'Quicksand', sans-serif;
+  color: white;
+  background-color: #9751B5;
 }
 
-.background {
-  padding: 0px;
-  margin: 0px;
-  width: 100%;
+.LogoType {
+  font-weight: 500;
+}
+
+.MiddleText {
+  font-weight: 400;
+  margin-top: 35vh;
+}
+
+.BottomText {
+  font-weight: 400;
+  margin-top: 50px;
 }
